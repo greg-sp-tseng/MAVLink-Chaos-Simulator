@@ -23,7 +23,8 @@ The Drone Simulator features real-time mode switching via terminal keystrokes:
    ```bash
    pip install pymavlink
 2. Launch the GCS Parser in Terminal A:
+   ```bash
    python gcs_parser.py
 3. Launch the Drone Simulator in Terminal B:
-   python drone_sim.py
    ```bash
+   python drone_sim.py
